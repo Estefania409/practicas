@@ -7,6 +7,11 @@ p {
 
 
 /* Selector por id   */
+#parrafo-cancer {
+    background-color: rosybrown;
+    border-radius: 10px;
+}
+
 #parrafo-sel-id {
     background-color: rosybrown;
     border-radius: 10px;
